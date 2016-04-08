@@ -1,0 +1,6 @@
+#ifndef LEARN_HPP_INCLUDED
+#define LEARN_HPP_INCLUDED
+
+
+
+#endif // LEARN_HPP_INCLUDED
